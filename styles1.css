@@ -1,0 +1,18 @@
+.heading {background-color: black;
+    color: white;
+    text-align: center;
+    }
+    
+    .main {background-color: thistle;
+     padding: 1ch;
+     padding: left 80px;
+     display: flex;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+    }
+    
+    #boy {padding-left: 600px;
+    } 
+    #sidenav {background-color: black;}
+    
