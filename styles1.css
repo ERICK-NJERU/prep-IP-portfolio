@@ -1,27 +1,57 @@
-.heading {background-color: black;
-    color: white;
-    text-align: center;
+   .container {color: white;}
+   .heading {
+        background-color: black;
+        color: white;
+        text-align: center;
     }
     
     .main {background-color: thistle;
-     padding: left 80px;
-     display: flex;
-     background-repeat: no-repeat;
-     background-position: center;
-     background-size: cover;
+        padding: left 80px;
+        display: flex;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        }
+
+    .ebody {
+        background-color: black;
+    }  
+
+    .sidebar {
+        width: 120px;background: #222;
     }
     
-    .sidebar {width: 120px;background: #222;}
     #boy {
         padding-left: 80px;
         padding-bottom: 0px;
     }
-    #stacks {padding-top: 50px;
+    #stacks {
+        padding-top: 50px;
 
-    }
-    #sidenav {background-color: black;}
-
-    .ebody {background-color: black;}
-
-#location {padding: 10px;}
+    } 
     
+    .ebody {
+        background-color: black;
+    }   
+
+    #sidenav {
+        background-color: black;
+    }
+
+    #location {
+        padding: 10px;
+    }
+
+    #CONTACT{
+        font-style: normal;
+        text-decoration: underline;
+    }
+  
+    #SKILLS {
+        font-style: normal;
+        text-decoration: underline;
+    }
+
+    .conta {
+        columns: 2;
+    }
