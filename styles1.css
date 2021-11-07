@@ -1,12 +1,16 @@
-   .container {color: white;}
+   .container {
+        color: white;
+        padding-bottom: 10px;
+    }
    .heading {
         background-color: black;
         color: white;
         text-align: center;
     }
     
-    .main {background-color: thistle;
+    .main {background-color: #1573FC;
         padding: left 80px;
+       
         display: flex;
         background-repeat: no-repeat;
         background-position: center;
@@ -35,7 +39,7 @@
         background-color: black;
     }   
 
-    #sidenav {
+    #sidenav-custom {
         background-color: black;
     }
 
@@ -62,3 +66,15 @@
         color: thistle;
       }
  
+      .sform {
+          width: 70%;
+          padding-left: 10px;
+          padding-top: 0px;
+          margin-left: 200px;
+          margin-top: 10px;
+          background-color: b;
+    }
+   #let {
+       text-align: center;
+       color: white;
+}
