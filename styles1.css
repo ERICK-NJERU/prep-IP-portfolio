@@ -53,5 +53,11 @@
     }
 
     .conta {
-        columns: 2;
+        columns: 1;
+        padding: 40px;
+        display: block;
     }
+    a:hover {
+        color: thistle;
+      }
+ 
