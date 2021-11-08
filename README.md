@@ -4,8 +4,8 @@
 
 ## Table of Content
 ​
-- [portfolio](#portfolio)
-      - [8/11/2021](#08/11/2021)
+  - [portfolio](#portfolio)
+  - [8/11/2021](#08/11/2021)
   - [Table of Content](#table-of-content)
   - [Description](#description)
   - [Contributors](#contributors)
@@ -13,7 +13,7 @@
   - [Visuals](#visuals)
   - [Technologies Used](#technologies-used)
   - [Support and contact details](#support-and-contact-details)
-    - [License](#license)
+  - [License](#license)
 
 
 
@@ -22,13 +22,22 @@ This project is a website that carries all my details as a professional. it high
 Thebsite is meant to link me with potential employers and partners who might need to know more about me. 
 ## AUTHOR
 * ERICK NJERU.
+
+# about the author
+
+Erick is a student at https://moringaschool.com/. currently doing software engineering.
+## other projects done
+* https://erick-njeru.github.io/erick-njeru-photography-website/
+* https://erick-njeru.github.io/eric-week2-ip/
+* https://joshua-barawa.github.io/car-dealer/  (contributor- about us page.)
+
 ## Setup/Installation Requirements
-* Clone or download the project from my repo erick-njeru.github.io/prep-ip-portfolio/s
+* Clone or download the project from my repo https://erick-njeru.github.io/prep-ip-portfolio/s
 * Extract the project 
 * Open with visual studio code
-* Or you can You can view it using my git hub pages herick-njeru.github.io/prep-ip-portfolio/
+* Or you can You can view it using my git hub pages https://erick-njeru.github.io/prep-ip-portfolio/
 ## Technologies Used
-* The project was developed using HTML/CSS bootstrap.
+* The project was developed using HTML/CSS/Bootstrap.
 * I used Visual Studio as my development tool
 ## Support and contact details
 * If you get any issue contact enjeru6@gmail.com
