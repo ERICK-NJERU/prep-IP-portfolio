@@ -72,9 +72,16 @@
           padding-top: 0px;
           margin-left: 200px;
           margin-top: 10px;
-          background-color: b;
+      
     }
    #let {
        text-align: center;
        color: white;
-}
+   }
+
+   .LAST {
+    padding-left: 10px;
+    padding-top: 0px;
+    margin-left: 250px;
+    color: white;
+   }

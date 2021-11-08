@@ -23,10 +23,10 @@ Thebsite is meant to link me with potential employers and partners who might nee
 ## AUTHOR
 * ERICK NJERU.
 
-# about the author
+## About the Author
 
 Erick is a student at https://moringaschool.com/. currently doing software engineering.
-## other projects done
+## Other projects done
 * https://erick-njeru.github.io/erick-njeru-photography-website/
 * https://erick-njeru.github.io/eric-week2-ip/
 * https://joshua-barawa.github.io/car-dealer/  (contributor- about us page.)
